@@ -10,6 +10,6 @@ Both has pros and cons it will give you idea about when to apply certain functio
 
 ```
 ```
-For demonstration purpose I have used wine quality dataset which you can easily get from Kaggle.
+For demonstration purpose I have used wine quality dataset which you can easily get from Kaggle although I have attached to my repo.
 
 ```
