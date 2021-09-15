@@ -1,4 +1,4 @@
-# windows-function-and-pandas
+# SQL windows-function-and-pandas
 ```
 Having good knowledge of SQL and Pandas is essential for Data Scientist
 ```
